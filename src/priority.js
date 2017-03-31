@@ -8,6 +8,7 @@ class PriorityNode {
   }
 }
 
+
 export default class Priority {
 
   constructor(data) {
